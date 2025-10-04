@@ -11,7 +11,7 @@ const rssList = [
     // Edit the list below 
     'https://feeds.megaphone.fm/MSC5503498991',
     'https://tritonia.libsyn.com/rss',
-    'https://enhancedsessions.radiopush.net/podcast.xml'
+    // 'https://enhancedsessions.radiopush.net/podcast.xml'
 ];
 
 const storagePath = './';
