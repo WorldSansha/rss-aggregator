@@ -23,7 +23,7 @@ const authorINFO = {
 
 const feed = new Feed({
     title: "Sansha's DJ Radio",
-    description: '聚合多种rss源',
+    description: '聚合多来源DJ Radio',
     id: 'http://sansha.world/',
     link: 'http://sansha.world/',
     language: 'zh',
