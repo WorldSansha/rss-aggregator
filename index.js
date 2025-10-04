@@ -32,9 +32,9 @@ const feed = new Feed({
     copyright: `Copyright © 2019 - ${new Date().getFullYear()} RavelloH. All rights reserved.`,
     generator: 'https://github.com/RavelloH/rss-aggregator',
     feedLinks: {
-        json: 'https://worldsansha.github.io/rss-aggregator/feed.json',
-        atom: 'worldsansha.github.io/rss-aggregator/atom.xml',
-        rss: 'worldsansha.github.io/rss-aggregator/rss.xml',
+        json: 'https://rss-radio.sansha.world/feed.json',
+        atom: 'https://rss-radio.sansha.world/atom.xml',
+        rss: 'https://rss-radio.sansha.world/rss.xml',
     },
     author: authorINFO,
 });
