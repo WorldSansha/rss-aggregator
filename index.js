@@ -16,25 +16,25 @@ const rssList = [
 
 const storagePath = './';
 const authorINFO = {
-    name: 'RavelloH',
-    email: 'ravelloh@outlook.com',
-    link: 'https://ravelloh.top/',
+    name: 'WorldSansha',
+    email: 'shijiesansha@gmail.com',
+    link: 'https://sansha.world/',
 };
 
 const feed = new Feed({
-    title: "RSS聚合器 - RSS aggregator",
+    title: "Sansha's DJ Radio",
     description: '聚合多种rss源',
-    id: 'http://ravelloh.top/',
-    link: 'http://ravelloh.top/',
+    id: 'http://sansha.world/',
+    link: 'http://sansha.world/',
     language: 'zh',
-    image: 'https://ravelloh.top/assets/images/avatar.jpg',
+    image: 'https://p1.music.126.net/LPDBNYs8GIbMuPJmqPn16g==/109951166607206965.jpg',
     favicon: 'https://ravelloh.top/favicon.ico',
     copyright: `Copyright © 2019 - ${new Date().getFullYear()} RavelloH. All rights reserved.`,
     generator: 'https://github.com/RavelloH/rss-aggregator',
     feedLinks: {
-        json: 'https://ravelloh.github.io/rss-aggregator/feed.json',
-        atom: 'ravelloh.github.io/rss-aggregator/atom.xml',
-        rss: 'ravelloh.github.io/rss-aggregator/rss.xml',
+        json: 'https://worldsansha.github.io/rss-aggregator/feed.json',
+        atom: 'worldsansha.github.io/rss-aggregator/atom.xml',
+        rss: 'worldsansha.github.io/rss-aggregator/rss.xml',
     },
     author: authorINFO,
 });
