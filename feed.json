@@ -2,7 +2,7 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Sansha's DJ Radio",
     "home_page_url": "http://sansha.world/",
-    "feed_url": "https://worldsansha.github.io/rss-aggregator/feed.json",
+    "feed_url": "https://rss-radio.sansha.world/feed.json",
     "description": "聚合多种rss源",
     "icon": "https://p1.music.126.net/LPDBNYs8GIbMuPJmqPn16g==/109951166607206965.jpg",
     "author": {

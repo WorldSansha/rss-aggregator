@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://sansha.world/</id>
     <title>Sansha's DJ Radio</title>
-    <updated>2025-10-04T11:07:30.502Z</updated>
+    <updated>2025-10-04T11:22:13.655Z</updated>
     <generator>https://github.com/RavelloH/rss-aggregator</generator>
     <author>
         <name>WorldSansha</name>
@@ -10,7 +10,7 @@
         <uri>https://sansha.world/</uri>
     </author>
     <link rel="alternate" href="http://sansha.world/"/>
-    <link rel="self" href="worldsansha.github.io/rss-aggregator/atom.xml"/>
+    <link rel="self" href="https://rss-radio.sansha.world/atom.xml"/>
     <subtitle>聚合多种rss源</subtitle>
     <logo>https://p1.music.126.net/LPDBNYs8GIbMuPJmqPn16g==/109951166607206965.jpg</logo>
     <icon>https://ravelloh.top/favicon.ico</icon>

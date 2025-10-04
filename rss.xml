@@ -4,7 +4,7 @@
         <title>Sansha's DJ Radio</title>
         <link>http://sansha.world/</link>
         <description>聚合多种rss源</description>
-        <lastBuildDate>Sat, 04 Oct 2025 11:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 11:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/RavelloH/rss-aggregator</generator>
         <language>zh</language>
@@ -14,7 +14,7 @@
             <link>http://sansha.world/</link>
         </image>
         <copyright>Copyright © 2019 - 2025 RavelloH. All rights reserved.</copyright>
-        <atom:link href="worldsansha.github.io/rss-aggregator/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://rss-radio.sansha.world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Enhanced Sessions 819 with Sunny Lax - Hosted by Farius]]></title>
             <link>https://enhancedmusic.com</link>
