@@ -9,7 +9,7 @@ const log = new Rlog();
 const rssList = [
     'atom.xml', // Do not delate this. This could keep your history rss.
     // Edit the list below 
-    'https://feeds.megaphone.fm/MSC5503498991',
+    // 'https://feeds.megaphone.fm/MSC5503498991',
     'https://tritonia.libsyn.com/rss',
     // 'https://enhancedsessions.radiopush.net/podcast.xml'
 ];
