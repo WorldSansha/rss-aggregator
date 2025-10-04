@@ -9,9 +9,9 @@ const log = new Rlog();
 const rssList = [
     'atom.xml', // Do not delate this. This could keep your history rss.
     // Edit the list below 
-    'https://ravelloh.top/feed/atom.xml',
-    'https://www.ithome.com/rss/',
-    'https://sspai.com/feed'
+    'https://feeds.megaphone.fm/MSC5503498991',
+    'https://tritonia.libsyn.com/rss',
+    'https://enhancedsessions.radiopush.net/podcast.xml'
 ];
 
 const storagePath = './';
